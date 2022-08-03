@@ -24,3 +24,4 @@ Basic to advance navigation features in Flutter (Flutter Navigation Cheat Sheet)
 - 2.1 Basic navigation to pages
 - 2.2 Advanced Navigation to pages using URLs
 - 2.3 Navigate using URLs with nested routers and bottom navigation bar
+![Capture](https://user-images.githubusercontent.com/97278053/182667404-2c5b03e5-137b-4538-aaef-cfcac4a6b5c6.PNG)
